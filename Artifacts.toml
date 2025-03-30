@@ -1,608 +1,590 @@
 [[libCppInterOp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3cfb4bcab37d0c8bf31133b20a81fe967ecd907a"
+git-tree-sha1 = "1148f9020b92c02a1e7e1698d0f9ea4b2c5e888b"
 libc = "glibc"
 llvm_version = "18"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "e994d1033ebf391e1dd31cb58aa5c3cf92c8fc2744d59e46d61d92049c708830"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.i686-linux-gnu-cxx03-llvm_version+18.tar.gz"
+    sha256 = "3f2d6ef97cc275b0ea7c21938eda5d897099b5d6a1def024983f99f17821a31c"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.i686-linux-gnu-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "73f09029ea1ba2605b193f513305e67100d80802"
+git-tree-sha1 = "b50afa78ddec0476d44d5bbcbd2826095553f139"
 libc = "glibc"
 llvm_version = "18"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "0542d4a7e839e5e5045294e3a02a47eb09e264d0f0d604b74e8d4a7fae9987f3"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.i686-linux-gnu-cxx11-llvm_version+18.tar.gz"
+    sha256 = "329c312cc8f764a87ddf52ad35b98218c4bd353fd032b671266bda76c2911b4a"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.i686-linux-gnu-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d8bd4aff05cbf2e1b4d1c9d40dcd637b6fce88bd"
+git-tree-sha1 = "6d8ba7b1ec9f3d089b9a53bc74497d454bddfd25"
 libc = "glibc"
 llvm_version = "18"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "a6471f369e75cad0d242b782ab47a9f01043322f01f2e7ff07268700c23b8706"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.x86_64-linux-gnu-cxx03-llvm_version+18.tar.gz"
+    sha256 = "23fd69dad71db5e96b88f69465f7fe11158420067012f2f8936915680a1c4d59"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.x86_64-linux-gnu-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2b4d6aa0c9892833cd2a08203c338d440afa6a9a"
+git-tree-sha1 = "b34bc231ed1f4781b5e586e3b61fd7663d13ed02"
 libc = "glibc"
 llvm_version = "18"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "9aba7fc87e39d64d6faaeef33c9644bb8c205e3b6a5ee395ef30ee5412e4b138"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.x86_64-linux-gnu-cxx11-llvm_version+18.tar.gz"
+    sha256 = "bc3f818a3d31f40a260d58ce76a901103dc6294a5dd8d80f47e34928d2db181b"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.x86_64-linux-gnu-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e841339b59593038242528f1dbafd015ab5256ca"
+git-tree-sha1 = "d2f7b61d2350a7e48f5d8c6b9244fdfc7f73c3bb"
 libc = "glibc"
 llvm_version = "18"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "c25275469d5d86257f18bde77918827199b1aef4f68496e4e7b28edb0f010f70"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.aarch64-linux-gnu-cxx03-llvm_version+18.tar.gz"
+    sha256 = "398439281291fbea602cd3307398104d2c68e951180599b226a909a6e82612d6"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.aarch64-linux-gnu-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "06bd769ff887248d5962295eafb464a2aacbed85"
+git-tree-sha1 = "d5f2a79b45fefeda7ed49a8b29c409836948b9a0"
 libc = "glibc"
 llvm_version = "18"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "cbc189481c43df373aa20a73abae849cbaf11acb61db33a0e3dfbcae8cfda981"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.aarch64-linux-gnu-cxx11-llvm_version+18.tar.gz"
+    sha256 = "e83de9f790f385a5ea08e9dc325ce70be59177bc083d8af298f515c3fe080a06"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.aarch64-linux-gnu-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a24203f5c48b0a25250427b5d60d257318f3aecc"
+git-tree-sha1 = "5f5dcf961d1c09c340ba0bd53fe64f064e6cfb97"
 libc = "glibc"
 llvm_version = "18"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "1389d51c1966aa09f3521baa7e7d9439b5a450b78b14bb53788c5443d1eedf10"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.armv6l-linux-gnueabihf-cxx03-llvm_version+18.tar.gz"
+    sha256 = "6c5bbca995e1de94afe287927a7346ac54d9c9831de39cfaa3005c9de89e6e7e"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.armv6l-linux-gnueabihf-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b7521410cc5ba6e9cccba62ffb9acc881d4c40da"
+git-tree-sha1 = "2250d47b9a215b08291c32797f04d4d3d36d26f5"
 libc = "glibc"
 llvm_version = "18"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "a19e5424fd16ae1dc7ba0be76b002a104d2fd7cabeedd539572179eb354e073c"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.armv6l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
+    sha256 = "7d4d81db43c0f2401f4422c6520c86030e4809f3da5dc69a39931c2efc0fe222"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.armv6l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "867661e17d014ed675704047e854b3d5ff8c63cf"
+git-tree-sha1 = "c7f2ac3d3bbaab3436ba0fd0fe507f0c52ceb340"
 libc = "glibc"
 llvm_version = "18"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "ec5121a35e72a2e5f415058ce1baffd961c2b079c6c520347be63fcfe661bebf"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.armv7l-linux-gnueabihf-cxx03-llvm_version+18.tar.gz"
+    sha256 = "2fc0bb680a5a6f03bc20c32ace38c74cf0d13a4cf0725ff83676b1e1287561f3"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.armv7l-linux-gnueabihf-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d8016ff285f8389c5a2599b9fa5b7d61f693c8b8"
+git-tree-sha1 = "89712ec67e5d26a984b1d0fa8d95e280445b7485"
 libc = "glibc"
 llvm_version = "18"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "cfb4c620143ccb66bd600538d97be0d5cb37c38e44fd48c47c9a226de09be39f"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.armv7l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
+    sha256 = "67b912000212c94c025ca15cfd26cfc96f01f466b7dbff43c0636681b378fb2b"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.armv7l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2803d633cfc1a9701f2c343cb0bd06bfcad393c4"
+git-tree-sha1 = "bbf4a44cfccb13674edb3d44845508b6569cb200"
 libc = "glibc"
 llvm_version = "18"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "9c01264a910717ed2a9ef4b6674e14ec1137fd6a1ab68da78fcb900ff3701fe9"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.powerpc64le-linux-gnu-cxx03-llvm_version+18.tar.gz"
+    sha256 = "dbbc141ae97d41650e5ad6715a062e135b002bcc2dc044bdf619dad0e24089fe"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.powerpc64le-linux-gnu-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5a849b60b240681b9eed5e0b44135c87271a9b1b"
+git-tree-sha1 = "c78f77e0ae3d8d4862a3b8bd0642a1682b0ac1d0"
 libc = "glibc"
 llvm_version = "18"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "136fff6f8aeaec7552fc217039ccff5320bc0e1dbfa60231a67cb7264100a942"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.powerpc64le-linux-gnu-cxx11-llvm_version+18.tar.gz"
+    sha256 = "ac5011d64b1909a410329ef06f7be6c374d95580ee31145836401ffa37e1aaae"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.powerpc64le-linux-gnu-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "64adc9041418e94dc1f5975dbf9a29fa83eaa349"
+git-tree-sha1 = "4d58480d7862302afa8e8e5a6798a189c45f8cdc"
 libc = "musl"
 llvm_version = "18"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "07f601951567f6304cde1e2164ebfe0c77fe57a2ee1824a00f88e702e7776a60"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.x86_64-linux-musl-cxx03-llvm_version+18.tar.gz"
+    sha256 = "9623123892264b3b6e42e786c27d59f5018e293ba5f5e3784c37b5c4b71bfa46"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.x86_64-linux-musl-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1d63f24fe509dc633edddfd2493b90160c641787"
+git-tree-sha1 = "5645bbd08b9cd644e2f7008ea95fadbaa0d0229a"
 libc = "musl"
 llvm_version = "18"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "3cba7baa3ec297e5c0e2e81befe92f776c7658326fb028f63c7acbe314d198c3"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.x86_64-linux-musl-cxx11-llvm_version+18.tar.gz"
+    sha256 = "5c7ebb1ce296c1a3778f9dbd75dc4d4d68efee27a7c4f3f13c94c3f53424a0fe"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.x86_64-linux-musl-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7e1af121a1ab0441e94d34715db4c4027364f5bf"
+git-tree-sha1 = "24542edf725e99d5057cb9dfedbd40edcb44be8e"
 libc = "musl"
 llvm_version = "18"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "1dd00f67bf2c75fb30339ba2d2dffcf7699fe0ef305ad25b93c0517be7b32325"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.aarch64-linux-musl-cxx03-llvm_version+18.tar.gz"
+    sha256 = "d868d351779c91c72265880a6ee3df3c426bcec8e49fc0af1f28f0315d2e069f"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.aarch64-linux-musl-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "67470d553c246015ca8704d31197a508584727a7"
+git-tree-sha1 = "03dd1b6dc6d42054fd3f4b62a52069d7f2b7a54f"
 libc = "musl"
 llvm_version = "18"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "6cda4111c58621422f35ba89b2d5a7b8f2e07c1a44554f566a7ff9ced751413c"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.aarch64-linux-musl-cxx11-llvm_version+18.tar.gz"
+    sha256 = "bb4805dc1e38b722eef2ee1ab29fdbb1ff705abce2ba90f7cef0d391295ef128"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.aarch64-linux-musl-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "74b30f8a495d652771174a2b6769d2c18510e9b4"
+git-tree-sha1 = "e5b614b514eadeade9ab5f07ed79cd85bfc75727"
 libc = "musl"
 llvm_version = "18"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "da4c7311423f5a2b4e0213b1552574f2511030bdde7894e889892f6f4d09fae3"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.armv6l-linux-musleabihf-cxx03-llvm_version+18.tar.gz"
+    sha256 = "38cb4012e5de998367c2e1af44fe83c84e09452c3c2d3f17a46fc883f82d0d66"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.armv6l-linux-musleabihf-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "04c6438445ad1572b6af67b99aae9cfb029abeb5"
+git-tree-sha1 = "987686fcaa8f27954f619c20a9acfb75c3120263"
 libc = "musl"
 llvm_version = "18"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "6e07696d89fc60ab83594089db1fc745c87c05f9c6fe0c26085da5f39dce2c65"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.armv6l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
+    sha256 = "9590fea9b74dde6026beb354c0643751582ea322254a6f50179f8419bcd88ff8"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.armv6l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9379590cf6293f7e3e8feaa94a220772d463e0bf"
+git-tree-sha1 = "895851c3a7b03e96ade3a8f708471a1ad3bec421"
 libc = "musl"
 llvm_version = "18"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "32fc102a2cdc8ef9c3a636668458de2f98b63e89ae12d3a0ef45ee6f5f664108"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.armv7l-linux-musleabihf-cxx03-llvm_version+18.tar.gz"
+    sha256 = "3a5708a0d7e49cd867269c033550063b934e961e8d569df085fe3ef5a154bc51"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.armv7l-linux-musleabihf-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "845093be29b1fc98081d9e1c909bd734d5403082"
+git-tree-sha1 = "d805073195c12fc01689682efb623ec92730c74a"
 libc = "musl"
 llvm_version = "18"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "477c266aa5c4030bd42fea38ee3e6850f5997f28862c10917412373d2e0eb331"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.armv7l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
+    sha256 = "1db460f8ae00ec7adfc7d5d2115e06fc924e941174f1d56ce8b0bbb99f10a2d8"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.armv7l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "x86_64"
-git-tree-sha1 = "10ba6e25593c66c075613b5d42aed0dad8c6126f"
+git-tree-sha1 = "2e64ae39beb04c52b540d1f23bec0dc5ae728e4c"
 llvm_version = "18"
 os = "macos"
 
     [[libCppInterOp.download]]
-    sha256 = "58725d10ff0ee64017436d0196e58850cc49dc7219d3fb06d17006fa55cc24a6"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.x86_64-apple-darwin-llvm_version+18.tar.gz"
+    sha256 = "5764702291dbfce597f9a13e0172805673a3a20ef88198a6bda2d8c8fa6eb0e4"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.x86_64-apple-darwin-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "aarch64"
-git-tree-sha1 = "c62d0960996ed462fab15370c1823545a33e88c3"
+git-tree-sha1 = "3cc28b3ec142d07a15ee93644ac778df37a3f9b4"
 llvm_version = "18"
 os = "macos"
 
     [[libCppInterOp.download]]
-    sha256 = "d674e3c7f4a8ca1b1ed78b075814f1c7051943f5450048b3852023f489a0aeb4"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.aarch64-apple-darwin-llvm_version+18.tar.gz"
+    sha256 = "b938baf5560b59790f572155f40fe1a3e4bef03d549f25feb0195866bd615c87"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.aarch64-apple-darwin-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "x86_64"
-git-tree-sha1 = "8e2fcf40ef4075fc4ce299c2d466ab639d2fdfab"
+git-tree-sha1 = "a340bfbb8e5cd806b00588fac63cef819e25e194"
 llvm_version = "18"
 os = "freebsd"
 
     [[libCppInterOp.download]]
-    sha256 = "5b672b9cc70f8f3809e0aca663be09dcee65196da734cd76a57296bd48e3211e"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.x86_64-unknown-freebsd-llvm_version+18.tar.gz"
-[[libCppInterOp]]
-arch = "aarch64"
-git-tree-sha1 = "c8826ec3ac74c58b70d4dbe39205d134ca20e98a"
-llvm_version = "18"
-os = "freebsd"
-
-    [[libCppInterOp.download]]
-    sha256 = "1c4a3ad4a22d6663170ca60a2067edb79343c765f8f6f59a0803def25a15b3b6"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.aarch64-unknown-freebsd-llvm_version+18.tar.gz"
+    sha256 = "8098fd3c6384432632c656f4d3083724baaf3638595d1604b4cdb8a56f52ff7f"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.x86_64-unknown-freebsd-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4305719c67ab972575379a44b8b0244cd7660499"
+git-tree-sha1 = "8404d3580030f3b3a84fa49b2594544146603d9b"
 llvm_version = "18"
 os = "windows"
 
     [[libCppInterOp.download]]
-    sha256 = "50a4080b89892b66e6e4f43ebaf174b0ed61b763e6c53735ca662e2bae5147d4"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.i686-w64-mingw32-cxx03-llvm_version+18.tar.gz"
+    sha256 = "e06a2c8531e69ab4ffeb4e4501e637347753dcb21a2334fd13775396a9d99cf0"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.i686-w64-mingw32-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4635c8b2c160489bf3bfcb71f9ce43897a0b7908"
+git-tree-sha1 = "c8d55fad0f5b81cdfccca570b771880c4766fc15"
 llvm_version = "18"
 os = "windows"
 
     [[libCppInterOp.download]]
-    sha256 = "e444c6cca04f0467ac22c766df48a5b94547e9a0a2ba6f5e011340b40c0169cc"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.i686-w64-mingw32-cxx11-llvm_version+18.tar.gz"
+    sha256 = "d49a9926ed67981f989540c09a5431cfe61bb688515d41fe9ce671525fceea7e"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.i686-w64-mingw32-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9e08b5b922f7058412b0a3c28c6865eb35553c6d"
+git-tree-sha1 = "2d885b0351bb0a3c66cf5ef5720e7da1b9d818ea"
 llvm_version = "18"
 os = "windows"
 
     [[libCppInterOp.download]]
-    sha256 = "fd2c0c0372e4d5c06e3f2e7413679955e06f113daa5c143eb2c276936560ee02"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.x86_64-w64-mingw32-cxx03-llvm_version+18.tar.gz"
+    sha256 = "2b4422b1cc319c6216bf53c0873ffdf11126801290962c2842d5fc62bee7aae3"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.x86_64-w64-mingw32-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ea5dcb1c4ea64f5c55c14c52bebac7b1a318369f"
+git-tree-sha1 = "213283b502e3331b21c0fcc32ef46adc4bcb73ac"
 llvm_version = "18"
 os = "windows"
 
     [[libCppInterOp.download]]
-    sha256 = "0f0cba5da0e2ad21d151383cccc845b84e434698e6e717d544b7197ba4387f7d"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.x86_64-w64-mingw32-cxx11-llvm_version+18.tar.gz"
+    sha256 = "c45ec1058b8661d45781e84760b2abe997569b6e9bc1b098bb18a5a3ce524a92"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.x86_64-w64-mingw32-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "11770de6cba6d2cbdbe21c7825d7b5308487c1d1"
+git-tree-sha1 = "b7a3c4e74c32fbc1713ee20156ef43ced5b1e088"
 libc = "glibc"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "53ed6da8a859b0536cac64cc455fa44a5620cc3861192c819c72b4bada92683f"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.i686-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "b071120e69ae96a743ba3528d6189d3bf704111944a9394b5a951c09031614a6"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.i686-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e67e2ab43c6a56836ff8c169a7bb902a4dd0497d"
+git-tree-sha1 = "7a7305c9925876a719888a1fabbd2f7cc7c73bc3"
 libc = "glibc"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "ca124f53974918758105353bbe6d73f41f0343438ced7b67c8365e91addccdae"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.i686-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "b12a8d46b85c7c27491930226fd2aaab7911d571f5652cf6e91aa81976ccd7de"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.i686-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9b8a76e62ec9f485b714f7c3c9488f38aeda8718"
+git-tree-sha1 = "d1465d4126f744b017ae7ee66bbf77daf2687dcd"
 libc = "glibc"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "13c87176b83249088d6a54fcf55801f33b06c22506d2275553a17c586c8f31c2"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.x86_64-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "1fb6b726085990a16d76663bf2feda4e86cd309baa0f0ea0cd6b39af42f69b76"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.x86_64-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "64f0db7a9c950923d8326c887a9719ba38a5e923"
+git-tree-sha1 = "d43f39833d65914a3ffeaaa78311bd26f4c58f26"
 libc = "glibc"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "66e97ad8a7c6539b0fcf2f1620f86851e3ff16112583c16316bba98355ec5e85"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.x86_64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "bdb4150cffd23bdefc8ed36bd25f9f1d83fc352f45bcd8b10ea932365b1361c8"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.x86_64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8083ecddc0198caa2bf50212d07570d4d83aecb1"
+git-tree-sha1 = "946d5c7a43e0686e6c09bb08f34ed659f18fe037"
 libc = "glibc"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "12244fc367f16f78ba5076cb4f8866e7f7adcec848c0c191517c359dfc4aebcb"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.aarch64-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "74fd6c0c09dd466068ff2733dcb4fad770a8c8e21ea27b4d8014cd5c14a41dde"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.aarch64-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e7804c682b1ad3cf6b03450270d6fa5e49dd31d5"
+git-tree-sha1 = "aeef4ec6cb1f71e1a0519985372c892706a131b6"
 libc = "glibc"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "7d2860f8a286b61a8bf795ea5c6cbfbd070318dd8a731dea95e9f182fb3f55a2"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.aarch64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "2b06d670b141fe1accd37ea72e0d3222bd4e4f1cf33bfa523408adc028d4830a"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.aarch64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6c06a19f36866a15976c13f679175379b4f240b9"
+git-tree-sha1 = "1609d80ec459053a3965d6397540c5c8baa99379"
 libc = "glibc"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "7556081abfd28caba64d044fed516b088b6185ab3e13e070c0cd186fccaceab9"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.armv6l-linux-gnueabihf-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "f1e6fdf47d96500b20b2d1f4a11ef9e824e6a977152c62dc5506f9572b2fdeb5"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.armv6l-linux-gnueabihf-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d59726d66b39c6e27eea321ad58494a29324aabc"
+git-tree-sha1 = "524572a842765c56cea9c2b77a0409f3fe6271d8"
 libc = "glibc"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "5e1d979dc3b86d63a22a832bace2a35773d6d4445ada50c7cacc237cdcf80005"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.armv6l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "b66abbeb8f1514b984af50cd096099ce564a12e517ec9917832c5cfd5052db86"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.armv6l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8c554d4316a424a73eabbff917db0b1aee09d0fa"
+git-tree-sha1 = "20031cfd2a34c73cec821e64f201301379098c61"
 libc = "glibc"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "0ef2f79b2f47142dfbbc58e0550539cde8363d3f69d2afb2dd797cd4e733c18c"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.armv7l-linux-gnueabihf-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "52ea3630c69d949b7540e99aec4f8c797d4fc6b48e1fb46054c72f4299b260b6"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.armv7l-linux-gnueabihf-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "02bb22684803ea1246fc757b3ee86d4e84866c21"
+git-tree-sha1 = "61a34a5f66d0f6e916477d1eeed2dca975f69179"
 libc = "glibc"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "51730b61667dac26cbd66bd8ad2418d8d2116df8716ef672674f03474b29e62d"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.armv7l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "53ce0d8de31f035a17f07f4a0f7517e8b442d523aa62fb1a769c38a956647ace"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.armv7l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3eb8e3f8c177eb64a926b1b71de6b26112a166a2"
+git-tree-sha1 = "46b9bd0a9af71a455ffeb473a3bf8c4f8455d1ca"
 libc = "glibc"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "e80f3cbe5daf40cee213d8f148c2abb954598e0ec102d8d0e5088ad262a84ed8"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.powerpc64le-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "1b7b496d030ffd35814c326216198012f6643f87df451fa2a233ed1e369d8a23"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.powerpc64le-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e3b60c0ff1385ebd11ea72d61979e28a405f9812"
+git-tree-sha1 = "b401cd1dad6b34c404afe326e78b94b26a510446"
 libc = "glibc"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "812dcfc73800f892e5d84b6b32786db8f848419ef86cf9285984c792520fa8fa"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.powerpc64le-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "f10785c927c82bb54c8d861b18385ef488b0774f60d1ba7e9f1d7372c8669cf0"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.powerpc64le-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "74c73506839dd1b8ce3fc3a1510cf5a4756b9864"
+git-tree-sha1 = "bae6d7b9a3a4fdd0905d44540e6fe4ea12737002"
 libc = "musl"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "b41a9235cb6210b481ca86fc362859aecfaaa00613041b5f77629c4fcd9a35b8"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.x86_64-linux-musl-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "eb3ab96065c77374fb1786845d63090e5471a4b54d6739a8a494b495fc570481"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.x86_64-linux-musl-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "06242021f7dff02e1adfb113c1a01e4f494b9111"
+git-tree-sha1 = "5cafb8b309e7cb047dcb98157c023abbc87c0ca1"
 libc = "musl"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "cf12c948034cb420a1942dee29f15519b340361c210d15601aa33439dddc8149"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.x86_64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "0de411a2e17c10d2e71ca3c5fd5fb534b0c3f2416651f5963100a9ab77da5269"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.x86_64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6b61a25ed340836c7fe38adedfaa4d23872dc7c7"
+git-tree-sha1 = "1b672da98706fa6cda6a506650bc9af0ce19674f"
 libc = "musl"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "0d8c4c04d7fc977c4ac908c9a3537c4c8f2eb6aff7cd3e3f0d9718389efa3017"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.aarch64-linux-musl-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "1c605ec3f6aaedbd387430db82c92df3ee37be820278530fbaf89a497f9395be"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.aarch64-linux-musl-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c93002d4c2e0272600a4663f9c28aa1fae8fe5c9"
+git-tree-sha1 = "fa607f06190b6ac80b68a9cc970ff0b1f30f69ab"
 libc = "musl"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "11d50e743de45718a1f7a3f30f1229a91fb05f0d27a3f6bdc4d5370237dc6c1c"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.aarch64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "56b00c385066386c3485619a4eea97e8c40523a1e166847984d1aa9a53fc5438"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.aarch64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "43197bbd463f5b18777aa60d6b3d195abca3031c"
+git-tree-sha1 = "df6d8db0db1470ccd8255c02e16000b7c2cbbbe8"
 libc = "musl"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "622fa49571350710af7af49a6d311da872f060aeca7dda54a1be3951393835e8"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.armv6l-linux-musleabihf-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "278e3c34f71f2ea6a11957da5cf7fb3c78eb2a40d4276cc5829cd3de3a72bd3e"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.armv6l-linux-musleabihf-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4a7179c87bdea2b5b64333a125c8379bb35822f3"
+git-tree-sha1 = "3bf3af3792ec4516d996570ba5db634329019fc4"
 libc = "musl"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "c30c9adcd718619609aaabd92a969fd581dd991ad801bf4c6170590bb862a77a"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.armv6l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "5a2a0e2b384132ab31e81dcbd1ec76124631db9df9a5ce5617293411d71ba94b"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.armv6l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4e0218871b581c1298c6af0ecb557ca9d0e58f00"
+git-tree-sha1 = "4241dddbc8e453d68c54a898e01b8a790188dd85"
 libc = "musl"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "1cdd9322e16b6359dd6b81ddbcf48e3d28b204d86481ef812d398a5113a66101"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.armv7l-linux-musleabihf-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "5994fecdd8d4a847488700fdedfd567bdd9e91c5d6f00bfa092139f2835210fc"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.armv7l-linux-musleabihf-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "214c4be2fb557c8d583df6860239e17248a8981e"
+git-tree-sha1 = "2c387ab9b7c8a2af045e35279137500ce97efaf0"
 libc = "musl"
 llvm_version = "18.asserts"
 os = "linux"
 
     [[libCppInterOp.download]]
-    sha256 = "e5bfbff93897eab67f7fac53ec20b4890357204de99132552521f07dfdb5fa18"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.armv7l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "8f3a1cb5ba1f16d5b8cc29b13c15f8b56e983ad0d67a4ca5dfd2dd93b7925b29"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.armv7l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "x86_64"
-git-tree-sha1 = "e38519eebac333f75c4d29cb2ffea56b5041efaa"
+git-tree-sha1 = "6bf08b578580bf4ae231e2dd5cae7aa8c8a83806"
 llvm_version = "18.asserts"
 os = "macos"
 
     [[libCppInterOp.download]]
-    sha256 = "13f4212b48bfbf65a8495bf53ca79c46be893afae29810e33ccf9b9a0bf97a65"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.x86_64-apple-darwin-llvm_version+18.asserts.tar.gz"
+    sha256 = "52740fe50cf08c3424bbdd9a9f922bf4b51c10e198b8e113da2c3d1bfe8d426d"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.x86_64-apple-darwin-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "aarch64"
-git-tree-sha1 = "47c8b83414fa34c01cf5b0f5cb49fe96a8118abc"
+git-tree-sha1 = "29872a54a5694e6dd0f6fac93bf06f5e90d4beb0"
 llvm_version = "18.asserts"
 os = "macos"
 
     [[libCppInterOp.download]]
-    sha256 = "fd3e960015fde1c67be822220639fc9dd6004e76df68d441ffef76d499cde53e"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.aarch64-apple-darwin-llvm_version+18.asserts.tar.gz"
+    sha256 = "471b97a68acb2ddf851183a4c3131d7a6d8fbf1d7c12350792289eb3071c7611"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.aarch64-apple-darwin-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "x86_64"
-git-tree-sha1 = "227e395ce300bd0790cf0b5086c2900da3bd762a"
+git-tree-sha1 = "817d8fc4502c205dfc1fa59c5f272792951fd904"
 llvm_version = "18.asserts"
 os = "freebsd"
 
     [[libCppInterOp.download]]
-    sha256 = "553029ff3a678a39d4c7d7f9ec7090c905ccf7a5995e2b8da3387c5963a79845"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.x86_64-unknown-freebsd-llvm_version+18.asserts.tar.gz"
-[[libCppInterOp]]
-arch = "aarch64"
-git-tree-sha1 = "ef46d18ced96dc38d39376dbdc5ad5454855a6e2"
-llvm_version = "18.asserts"
-os = "freebsd"
-
-    [[libCppInterOp.download]]
-    sha256 = "82591f522ff9672085172579ce37cf1f420d1bea175bf81e5c2de5edd22e523d"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.aarch64-unknown-freebsd-llvm_version+18.asserts.tar.gz"
+    sha256 = "dc9392b39d489fb80321297afe769c64655ae2d131ff450c711222f927b87417"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.x86_64-unknown-freebsd-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "925df84aa3bf10fb2941cb730faeff2290fee49a"
+git-tree-sha1 = "19f646a548d68c919fc1dcc32b719a6daefc5653"
 llvm_version = "18.asserts"
 os = "windows"
 
     [[libCppInterOp.download]]
-    sha256 = "c674dc3e623b095938e59b379aade25b82ffd4a8b831efadc8a4d518fe79ff65"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.i686-w64-mingw32-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "6998d8148e5a25ca993bfc2e59e1c808beb2b492491ee569afbf7aff4b7c91ed"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.i686-w64-mingw32-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "31f8afe80d5011412eca90e36ab3693508cfb4e0"
+git-tree-sha1 = "fec9c252757caae195136bdd1110fda0be13fb31"
 llvm_version = "18.asserts"
 os = "windows"
 
     [[libCppInterOp.download]]
-    sha256 = "c77ab80cc91c33d02b009765308f1fd4aa3619f1c5dffcb292c477974c6bf1a7"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.i686-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "32e961a25f1742e854de91d4bf0e711930fcac90297660115293ff9392b8ba19"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.i686-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0850b8cf417643f4293d068621bd34929043d616"
+git-tree-sha1 = "51b77d5c5ee3c8250f662f0297d72d529cdd73d3"
 llvm_version = "18.asserts"
 os = "windows"
 
     [[libCppInterOp.download]]
-    sha256 = "f81502515f864cc8e3bcec8d0683819a851ce730301048e8cb79eec71ebbc011"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.x86_64-w64-mingw32-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "06407a14e0007babcf450a97e4fe230999a259d93abdd9d504ce81279daec067"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.x86_64-w64-mingw32-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1d9cba687befb066fbba530ebea6f08b9a0e5239"
+git-tree-sha1 = "6a5f4af6eb2d21188ed70efdef1d3fe2268c99f0"
 llvm_version = "18.asserts"
 os = "windows"
 
     [[libCppInterOp.download]]
-    sha256 = "f784f5baf84a9a846dfdb346f14767091d9fce704174b22033bd05bd6b32990f"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.5+1/libCppInterOp.v0.1.5.x86_64-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "ebbad9ccc5794fec90711d63e5deccdf4b591a30f367a17471185b30c86cf00e"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOp_jll.jl/releases/download/libCppInterOp-v0.1.6+0/libCppInterOp.v0.1.6.x86_64-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
